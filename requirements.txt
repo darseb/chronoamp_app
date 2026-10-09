@@ -1,0 +1,8 @@
+pypalmsens
+pyside6
+pyqtgraph
+pglive
+pandas
+openpyxl
+pytest
+pyinstaller
